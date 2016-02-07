@@ -1,0 +1,5 @@
+Licensing information:
+
+camera-shutter-click-03.mp3 is a free sound from http://www.soundjay.com/camera-sound-effect.html
+
+The art assets in the environment are from the Stealth tutorial created by Unity Technologies or are modifications thereto by Jeremy Gibson. According to Unity Technologies, all of their assets are avaialble to be used by anyone for free as long as the project in which they are used is on the Unity platform. I, Jeremy Gibson, extend the same license to my editions and additions to those assets.
